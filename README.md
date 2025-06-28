@@ -1,6 +1,6 @@
 # 🌱 EcoPrint AI – Sustainable Prompt Usage Estimator
 
-**EcoPrint AI** is an open-source browser extension by [LL Missions](https://github.com/LLMissions) that estimates the carbon footprint of AI-generated text prompts in real-time. Built to promote transparency and sustainability in large language model (LLM) usage, EcoPrint empowers users to understand and reduce their environmental impact.
+**EcoPrint AI** is an open-source browser extension by [LL Missions](https://github.com/LLMissions) that estimates the carbon footprint of AI-generated text prompts in real-time. Built to promote transparency and sustainability in large language model (LLM) usage, EcoPrint AI empowers users to understand and reduce their environmental impact.
 
 ---
 
@@ -25,11 +25,11 @@
 ## 📦 Installation
 
 1. [Download the latest release](https://github.com/LLMissions/EcoPrintAI/releases)
-2. Unzip `ecoprint-extension.zip`
+2. Unzip `ecoprint-ai-extension.zip`
 3. Open `chrome://extensions/` in your Chrome browser
 4. Enable **Developer Mode**
 5. Click **Load Unpacked**
-6. Select the `ecoprint-extension/` folder
+6. Select the `ecoprint-ai-extension/` folder
 
 ---
 
