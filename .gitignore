@@ -16,3 +16,9 @@ node_modules/
 
 # Env files
 .env
+
+# Ignore environment variables
+.env
+
+# Branding and logo drafts (IP-sensitive)
+Marketing/Branding/Private Assets/
