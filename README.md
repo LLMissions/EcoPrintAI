@@ -1,3 +1,20 @@
+<!--
+  README.md – EcoPrint AI by LL Missions
+
+  Updates:
+  - 📸 Screenshots section added (MVP UI only, obfuscated)
+  - 🔒 IP disclaimer inserted to protect proprietary logic
+  - 🛡️ Copyright footer added
+
+  Maintainer Notes:
+  - Screenshots must be added manually to /assets/ folder:
+    - assets/ecoprint-popup-blurred.png
+    - assets/eco-output-blurred.png
+  - Keep formula and backend logic minimal for IP protection
+  - Reach out to Adrian Young via GitHub for collab/licensing
+
+  Last updated: June 28, 2025
+-->
 # 🌱 EcoPrint AI – Sustainable Prompt Usage Estimator
 
 **EcoPrint AI** is an open-source browser extension by [LL Missions](https://github.com/LLMissions) that estimates the carbon footprint of AI-generated text prompts in real-time. Built to promote transparency and sustainability in large language model (LLM) usage, EcoPrint AI empowers users to understand and reduce their environmental impact.
@@ -19,6 +36,18 @@
 - ✅ Model dropdown: GPT-3.5, GPT-4, Claude 3
 - ✅ Clean, simple UI (Chrome extension)
 - ✅ MVP-ready architecture for scaling
+
+---
+
+## 🖼️ Screenshots (MVP Preview)
+
+> UI only – final formula and backend logic withheld to protect IP
+
+### 🔘 Extension Popup
+![Extension UI](assets/ecoprint-popup-blurred.png)
+
+### ♻️ Example Output (Obfuscated)
+![Carbon Estimate Output](assets/eco-output-blurred.png)
 
 ---
 
@@ -58,6 +87,11 @@ This project was submitted to the [Bolt.new Hackathon](https://bolt.new) and is 
 
 ---
 
+⚠️ **IP Notice**  
+This project contains proprietary logic and calculation methods developed by LL Missions. Core formulas and backend architecture are partially redacted from public view to protect intellectual property. For collaboration or licensing inquiries, contact Adrian Young via GitHub.
+
+---
+
 ## 🎯 Challenge Participation
 
 This submission qualifies for the following Bolt.new sponsor challenges:
@@ -76,3 +110,6 @@ This submission qualifies for the following Bolt.new sponsor challenges:
 ## 💬 Want to Collaborate?
 
 This project is solo-built by [Adrian Young](https://github.com/LLMissions). If you’re a dev, climate advocate, or just someone with good vibes and clean code, feel free to fork, PR, or reach out.
+
+---
+© 2025 LL Missions. All rights reserved.
