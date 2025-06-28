@@ -37,3 +37,10 @@
 
 ```js
 CO2e = (tokens / 1000) * modelFactor * emissionsPerKWh
+```
+
+---
+
+⚠️ Disclaimer
+The current version of the EcoPrint AI Carbon Calculator only supports text-based prompts. It does not yet account for image, audio, or video generation prompts, which typically consume more energy. Support for multimedia prompts will be added in a future release.
+---
